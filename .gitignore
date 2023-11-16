@@ -1,0 +1,4 @@
+node _modules
+.env
+.env.developement.local
+.env.production.local
